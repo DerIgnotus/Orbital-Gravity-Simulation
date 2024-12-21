@@ -1,0 +1,7 @@
+﻿  main.cpp
+F:\C++\Orbital Gravity Simulation\Orbital Gravity Simulation\main.cpp(17,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\C++\Orbital Gravity Simulation\Orbital Gravity Simulation\main.cpp(18,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\C++\Orbital Gravity Simulation\Orbital Gravity Simulation\main.cpp(22,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\C++\Orbital Gravity Simulation\Orbital Gravity Simulation\main.cpp(23,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\C++\Orbital Gravity Simulation\Orbital Gravity Simulation\main.cpp(47,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Orbital Gravity Simulation.vcxproj -> F:\C++\Orbital Gravity Simulation\x64\Debug\Orbital Gravity Simulation.exe
